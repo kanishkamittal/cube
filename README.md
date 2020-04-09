@@ -1,4 +1,4 @@
-###Dice
+##Dice
 
- * <a href="https://kanishkamittal.github.io/cube/">Live Demo</a>
+ <a href="https://kanishkamittal.github.io/cube/">Live Demo</a>
 
